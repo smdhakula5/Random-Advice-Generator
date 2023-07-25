@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/random-advice-generator/static/css/main.9ca62d58.css",
+    "main.js": "/random-advice-generator/static/js/main.16568614.js",
+    "static/js/787.89992e0a.chunk.js": "/random-advice-generator/static/js/787.89992e0a.chunk.js",
+    "static/media/bg.jpeg": "/random-advice-generator/static/media/bg.e777258e315469529891.jpeg",
+    "index.html": "/random-advice-generator/index.html",
+    "main.9ca62d58.css.map": "/random-advice-generator/static/css/main.9ca62d58.css.map",
+    "main.16568614.js.map": "/random-advice-generator/static/js/main.16568614.js.map",
+    "787.89992e0a.chunk.js.map": "/random-advice-generator/static/js/787.89992e0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ca62d58.css",
+    "static/js/main.16568614.js"
+  ]
+}
